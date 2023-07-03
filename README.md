@@ -32,7 +32,8 @@ The application will initiate a DNS lookup for the provided host name and retrie
 
 diffCopy code
 
-`- 192.0.2.1
+`
+- 192.0.2.1
 - 203.0.113.5
 - 198.51.100.10`
 
