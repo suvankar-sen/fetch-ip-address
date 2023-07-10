@@ -14,4 +14,4 @@ if "%*"=="" (
 )
 
 REM Run the Java JAR file with all arguments
-java -jar your_jar_file.jar %*
+java -jar "fetch-ip-address-1.0.0.jar" %*
